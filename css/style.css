@@ -1,7 +1,7 @@
 /* Proper Setup For @font-face */
 @font-face {
     font-family: myFont;
-    src: url(/fonts/bladerunner/bladerunner.ttf);
+    src: url(../fonts/bladerunner/bladerunner.ttf);
 }
 
 :root {
@@ -92,7 +92,7 @@ body, header {
     left: 6px;
     right: 6px;
     bottom: 6px;
-    background: url(/img/terminator.jpg);
+    background: url(../img/terminator.jpg);
     background-size:300px 480px;
     z-index: 2;
     height: auto;
@@ -106,7 +106,7 @@ body, header {
     left: 6px;
     right: 6px;
     bottom: 6px;
-    background: url(/img/bladerunner.jpg);
+    background: url(../img/bladerunner.jpg);
     background-size:300px 400px;
     z-index: 2;
     height: auto;
@@ -120,7 +120,7 @@ body, header {
     left: 6px;
     right: 6px;
     bottom: 6px;
-    background: url(/img/therunningman.webp);
+    background: url(../img/therunningman.webp);
     background-size:300px 400px;
     z-index: 2;
     height: auto;
@@ -134,7 +134,7 @@ body, header {
     left: 6px;
     right: 6px;
     bottom: 6px;
-    background: url(/img/drive.jpg);
+    background: url(../img/drive.jpg);
     background-size:300px 400px;
     z-index: 2;
     height: auto;
@@ -148,7 +148,7 @@ body, header {
     left: 6px;
     right: 6px;
     bottom: 6px;
-    background: url(/img/akira.jpg);
+    background: url(../img/akira.jpg);
     background-size:300px 400px;
     z-index: 2;
     height: auto;
